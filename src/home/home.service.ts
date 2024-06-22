@@ -208,7 +208,7 @@ export class HomeService {
         home_id: homeId,
         realtor_id: realtor.id,
         buyer_id: buyer.id,
-        message,
+        message
       },
     });
   }
